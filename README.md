@@ -1,5 +1,7 @@
 
 # HAR
+## 基于多传感器数据融合的人体行为识别系统 
+
 
 工程基于以下数据集进行设计：
 [数据集-Kaggel](https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones)
