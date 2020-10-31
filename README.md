@@ -25,12 +25,12 @@
      ·gyroscope
     
 ## Usage
-    ·classi.py : load your own dataset and train your model 
-    ·ICM20948.py : run in raspberry pi to get sensor's data
-    ·MakeANewDataset.py ： create Feature Engineering
-    ·run.py : run in raspberry pi,scratch datas,calculate your feature and classification.
-    ·visdo.py ： Monitoring the training process in tensorboard
-    ·visualble.py ： Draw your model as a flowchart
+  *classi.py : load your own dataset and train your model 
+  *ICM20948.py : run in raspberry pi to get sensor's data
+  *MakeANewDataset.py ： create Feature Engineering
+  *run.py : run in raspberry pi,scratch datas,calculate your feature and classification.
+  *visdo.py ： Monitoring the training process in tensorboard
+  *visualble.py ： Draw your model as a flowchart
     
 
 ## Usage in Raspberry Pi
