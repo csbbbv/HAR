@@ -13,20 +13,20 @@
 
 ## Requirements：
 
-  *python 3.7.3
+  * python 3.7.3
   
-  *torch 1.1.0 
+  * torch 1.1.0 
     
-  *torchvision 0.3.0 
+  * torchvision 0.3.0 
    
-  *Pillow
+  * Pillow
    
-  *Sense-HAT-B（使用九轴传感器）
+  * Sense-HAT-B（使用九轴传感器）
  
 ## sensor:
-   *accelerometer
+   * accelerometer
      
-   *gyroscope
+   * gyroscope
     
 ## Usage
 
